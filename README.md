@@ -10,7 +10,7 @@ This project is a Windows UI automation tool that provides users some helpers an
 
 ## Requirements
 
-- Python 3.7+
+- Python 3.10+
 - tkinter
 - pyperclip
 - uiautomation

@@ -1,7 +1,7 @@
 [project]
 name = "axcontrol"
 description = "AxControl is a Windows 10/11 UI Automation tool developed by aubex Gmbh, Hockenheim."
-version = "0.1.0"
+version = "0.1.1"
 requires-python = ">=3.10"
 readme = "README.md"
 authors = [
